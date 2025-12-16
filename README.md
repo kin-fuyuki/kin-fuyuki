@@ -5,6 +5,6 @@
 </div>
 
 click to open donation page:
-<a href="https://crystalsoft.neocities.org/donate">
+<a href="https://krystalsoft.neocities.org/donate">
   <img src="donate.png">
 </a>
