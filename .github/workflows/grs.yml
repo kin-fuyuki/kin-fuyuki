@@ -35,7 +35,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=readme-tools&repo=github-readme-stats&theme=highcontrast&fontFamily=IBM%20Plex%20Mono&preferLogin=false&Points.IndirectStars=0&Points.CommitsToAnotherRepositories=1&Border=D800DD&Text=D8DD00&Ring=00BDDD&borderRadius=16
+          options: username=${{ github.repository_owner }}&repo=github-readme-stats&theme=highcontrast&fontFamily=IBM%20Plex%20Mono&preferLogin=false&Points.IndirectStars=0&Points.CommitsToAnotherRepositories=1&Border=D800DD&Text=D8DD00&Ring=00BDDD&borderRadius=16
           path: profile/pin-readme-tools-github-readme-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
