@@ -1,10 +1,5 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kin-fuyuki&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=highcontrast&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kin-fuyuki&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <a href="https://github-readme-streak-stats.herokuapp.com?user=kin-fuyuki&theme=highcontrast&border_radius=5.9&date_format=j%20M%5B%20Y%5D">streak</a>
+  <img  alt="kin-fuyuki's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/kin-fuyuki?cardType=level&theme=highcontrast&fontFamily=IBM%20Plex%20Mono&preferLogin=false&Points.IndirectStars=0&Points.CommitsToAnotherRepositories=1&Border=D800DD&Text=D8DD00&Ring=00BDDD&borderRadius=16" /> 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kin-fuyuki&theme=highcontrast&border=D800DD&stroke=D800DD&ring=00EBC6&fire=00EBC6&currStreakNum=D8DD00&sideNums=D8DD00&currStreakLabel=EB0000&sideLabels=EB0000" alt="GitHub Streak" /></a>
+  
 </div>
-
-click to open donation page:
-<a href="https://krystalsoft.neocities.org/donate">
-  <img src="donate.png">
-</a>
