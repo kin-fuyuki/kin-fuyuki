@@ -11,3 +11,5 @@
 </a>
   
 </div>
+moved to my own forgejo for personal projects due to github recent push for AI:
+https://krystalcorp.top/git/kinfuyuki
