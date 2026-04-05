@@ -1,5 +1,8 @@
-moved to my own forgejo for personal projects due to github recent push for AI:
+moved to my own forgejo for personal projects due to github recent push for using our work as training data:
 https://krystalcorp.top/git/kinfuyuki
+
+# opting out is not a permanent solution, do self-hosting and support descentralization
+
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@kinfuyuki/7a14fc31-4aee-4629-b27e-7c27929c38ba.png" width="512" height="512"/></a>
 
 ![Stats](./profile/stats.svg)
